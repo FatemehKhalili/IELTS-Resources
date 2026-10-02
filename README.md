@@ -80,6 +80,20 @@ These resources were compiled and organized during my own IELTS preparation and 
 
 They are intended as **supplementary study materials** and do not replace official IELTS preparation resources.
 
+---
+
+## 🇮🇷 A Note for Iranian Test Takers
+
+Since IELTS is currently not available in Iran, Iranian test takers need to travel to a neighboring country to take the exam.
+
+I personally took my IELTS exam in **Van, Turkey**, so if you are considering taking the test there and would like to hear about my experience, feel free to message me on Telegram.
+
+💬 **[Contact me on Telegram](https://t.me/Fatimah_Khalili)**
+
+I'd be happy to share my experience and any useful tips I learned along the way.
+
+---
+
 ## ⭐ Contributing
 
 Found a mistake or have a useful resource to suggest?
