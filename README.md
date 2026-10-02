@@ -1,88 +1,89 @@
-📚 IELTS Resources
+# 📚 IELTS Resources
 
 A collection of IELTS preparation resources, notes, vocabulary, grammar guides, and recommended materials.
 
-These resources were compiled and organized during my own IELTS preparation and are mainly intended for IELTS Academic.
+These resources were compiled and organized during my own IELTS preparation and are mainly intended for **IELTS Academic**.
 
-⸻
+---
 
-📖 Resources
+## 📖 Resources
 
-✍️ IELTS Writing
+### ✍️ IELTS Writing
 
-A collection of vocabulary, paraphrases, collocations, useful phrases, sentence structures, and model answers for IELTS Writing Task 1 and Task 2.
+A collection of vocabulary, paraphrases, collocations, useful phrases, sentence structures, and model answers for **IELTS Writing Task 1 and Task 2**.
 
 It includes topic-specific language, data-description vocabulary, sentence starters, comparison and trend phrases, overview structures, and examples.
 
-🔗 Mini-Dictionary for IELTS Writing
+🔗 [Mini-Dictionary for IELTS Writing](https://docs.google.com/document/d/1-rlfeTkY47ESAFO5awMjYAU-WSgcMjOzi8Fw-McI61U/edit?tab=t.vdt1lwwm4puv)
 
-⸻
+---
 
-📚 IELTS Grammar
+### 📚 IELTS Grammar
 
-For grammar preparation, I recommend Understanding and Using English Grammar by Betty Azar.
+For grammar preparation, I recommend **Understanding and Using English Grammar by Betty Azar**.
 
-It is a comprehensive grammar book, but you don’t need to study every chapter with the same level of detail for IELTS. If you want to prioritize, focus on:
+It is a comprehensive grammar book, but you don't need to study every chapter with the same level of detail for IELTS. If you want to prioritize, focus on:
 
-Chapter	Topic	Why it matters
-4	Review of Verb Tenses	Summarizing tenses and avoiding common tense errors
-5	Subject–Verb Agreement	A common source of errors in Writing
-6	Nouns	Count/noncount nouns, quantity, and grammatical accuracy
-7	Articles	a / an / the — common Writing errors
-11	Passive	Especially useful for Task 1 and process descriptions
-13	Adjective Clauses	Building more complex and precise sentences
-14–15	Gerunds & Infinitives	Very common in Writing and Speaking
-16	Coordinating Conjunctions / Parallel Structure	Sentence structure and parallelism
-17	Adverb Clauses	Building complex sentences and expressing logical relationships
-19	Cause, Effect, Contrast & Condition	Particularly important for Task 2
-20	Conditionals & Wishes	Especially useful for hypothetical essay situations
+| Chapter | Topic | Why it matters |
+|---|---|---|
+| **4** | Review of Verb Tenses | Summarizing tenses and avoiding common tense errors |
+| **5** | Subject–Verb Agreement | A common source of errors in Writing |
+| **6** | Nouns | Count/noncount nouns, quantity, and grammatical accuracy |
+| **7** | Articles | `a / an / the` — common Writing errors |
+| **11** | Passive | Especially useful for Task 1 and process descriptions |
+| **13** | Adjective Clauses | Building more complex and precise sentences |
+| **14–15** | Gerunds & Infinitives | Very common in Writing and Speaking |
+| **16** | Coordinating Conjunctions / Parallel Structure | Sentence structure and parallelism |
+| **17** | Adverb Clauses | Building complex sentences and expressing logical relationships |
+| **19** | Cause, Effect, Contrast & Condition | Particularly important for Task 2 |
+| **20** | Conditionals & Wishes | Especially useful for hypothetical essay situations |
 
-📥 Book: Download / Access the book
+📥 **Book:** [Download / Access the book](YOUR_LINK_HERE)
 
-⸻
+---
 
-🧠 IELTS Vocabulary & Speaking
+### 🧠 IELTS Vocabulary & Speaking
 
-Vocabulary resources and useful material for improving IELTS vocabulary and Speaking.
+Vocabulary resources and useful material for improving **IELTS vocabulary and Speaking**.
 
 🔗 Coming soon.
 
-⸻
+---
 
-📖 IELTS Reading
+### 📖 IELTS Reading
 
 Recommended resources and materials for IELTS Reading.
 
 🔗 Recommended resources coming soon.
 
-⸻
+---
 
-🎧 IELTS Listening
+### 🎧 IELTS Listening
 
 Recommended resources and materials for IELTS Listening.
 
 🔗 Recommended resources coming soon.
 
-⸻
+---
 
-📝 IELTS General Guide
+### 📝 IELTS General Guide
 
 A general guide covering the overall IELTS preparation process, useful strategies, and practical tips.
 
 🔗 Coming soon.
 
-⸻
+---
 
-📌 About
+## 📌 About
 
 These resources were compiled and organized during my own IELTS preparation and are being shared publicly to help other IELTS learners.
 
-They are intended as supplementary study materials and do not replace official IELTS preparation resources.
+They are intended as **supplementary study materials** and do not replace official IELTS preparation resources.
 
-⭐ Contributing
+## ⭐ Contributing
 
 Found a mistake or have a useful resource to suggest?
 
-Feel free to open an Issue or submit a Pull Request.
+Feel free to open an **Issue** or submit a **Pull Request**.
 
 Good luck with your IELTS preparation! 🍀
