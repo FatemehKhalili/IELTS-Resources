@@ -46,7 +46,7 @@ It is a comprehensive grammar book, but you don't need to study every chapter wi
 
 Vocabulary resources and useful material for improving **IELTS vocabulary and Speaking**.
 
-🔗 [Coming soon.](https://docs.google.com/document/d/1TE9qiDBIe4T7VCcPiKBrHBRoOU3Bp1-clKKqMMAW8nI/edit?tab=t.bjzpvi4e31cf)
+🔗 [Coming soon.]
 
 ---
 
